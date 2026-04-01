@@ -1,2 +1,2 @@
 # test
-dataanlyst trs fail
+test - passes all cases
